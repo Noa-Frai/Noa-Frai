@@ -1,4 +1,4 @@
-- 👋 Salut ! Moi c'est Noa Fraigneau, étudiant en développement informatique à l'IUT d'Annecy.
+- 👋 Salut ! Moi c'est Noa, étudiant en Informatique à l'IUT d'Annecy.
 - 👀 Je suis intéréssé par pleins de domaines tel que le développement C#, PHP, JavaScript ou encore même Java pour ne citer que ceux-ci.
 - 🌱 Je suis en train d'apprendre le Java, ainsi que le framework Symfony de PHP.
 - 💞️ J'aimerai colaborer sur plusieurs projets si vous êtes intéréssés faites le moi savoir
