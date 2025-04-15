@@ -1,6 +1,6 @@
 - 👋 Salut ! Moi c'est Noa, étudiant en Informatique à l'IUT d'Annecy.
-- 👀 Je suis intéréssé par pleins de domaines tel que le développement C#, PHP, JavaScript ou encore même Java pour ne citer que ceux-ci.
-- 🌱 Je suis en train d'apprendre le Java, ainsi que le framework Symfony de PHP.
+- 👀 Je suis intéréssé par pleins de domaines tel que le développement : C#, PHP, JavaScript ou encore même Java pour ne citer que ceux-ci.
+- 🌱 Je suis en train d'apprendre le framework Angular de JavaScript ansi que le Java, ainsi que le framework Symfony de PHP.
 - 💞️ J'aimerai colaborer sur plusieurs projets si vous êtes intéréssés faites le moi savoir
 - 📫 Vous pouvez me contacter via mon adresse mail noa.fraigneau.ducruet@gmail.com
 - ⚡ Fun fact: Je suis un go muscu mais j'adore l'alcool donc pas compatible aïe aïe aïe 
